@@ -3,7 +3,7 @@
 #### Certified in CompTIA Security+ SY0-701
 
 ### Currently projects I am working on:
-#### 1. Encryption/Decryption Tools
+1. Encryption/Decryption Tools
 #### 2. Steganography Tool
 #### 3. Network packet sniffer
 
