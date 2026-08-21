@@ -1,7 +1,7 @@
 ## HELLO
 
 <p align="center">
-  <img src="Hello.gif" width="80">
+  <img src="Hello.gif" width="300">
 </p>
 
 #### I am a student in the field of cybersecurity doing my engineering degree from SRM Institute of Science and Technology... Currently in 3rd year!
