@@ -11,7 +11,7 @@
 3. Network packet sniffer
 
 ### Currently learning:
-1. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (Tools and Imports)
+1. ![Python](https://img.shields.io/badge/Python-Language-yellow?logo=python&logoColor=black) (Tools and Imports)
 2. [C](https://img.shields.io/badge/C-Programming-blue?logo=c&logoColor=white)/[C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B&logoColor=white) (for working with core ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black))
 3. Pentesting Tools (![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue), ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-purple), ![BurpSuite](https://img.shields.io/badge/BurpSuite-Web%20Security-orange), etc...) 
 4. ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnubash&logoColor=white) (Scripting in ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black))
