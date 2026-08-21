@@ -1,7 +1,10 @@
 <p><img src="Hi.gif" width="300"></p>
 
 #### I am a student in the field of cybersecurity doing my engineering degree from SRM Institute of Science and Technology!!!
-#### Certified in ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white).
+#### Certified in:
+1.CompTIA Security+.
+2.Google Cybersecurity Certificate.
+3.Mocrosoft Cybersecurity Analyst Certificate.
 
 ### Current projects I am working on:
 1. Encryption/Decryption Tools
@@ -9,11 +12,10 @@
 3. Network packet sniffer
 
 ### Currently learning:
-1. ![Python](https://img.shields.io/badge/Python-Language-yellow?logo=python&logoColor=black) (Tools and Imports)
-2. [C](https://img.shields.io/badge/C-Programming-blue?logo=c&logoColor=white)/[C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B&logoColor=white) (for working with core ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black))
-3. Pentesting Tools (![Metasploit](https://img.shields.io/badge/Metasploit-Framework-blue), ![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-purple), ![BurpSuite](https://img.shields.io/badge/BurpSuite-Web%20Security-orange), etc...) 
-4. ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnubash&logoColor=white) (Scripting in ![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux&logoColor=black))
-5. ![Rust](https://img.shields.io/badge/Rust-Language-orange?logo=rust&logoColor=orange) (for future projects)
+1. Python (Tools and Imports)
+2. C/C++ and Rust (for working with core Linux)
+3. Pentesting Tools (Metasploit, Nmap, BurpSuite, Splunk, Wireshark, etc.) 
+4. Bash (Scripting in Linux)
 
 ### Solving CTF's on [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourusername) and [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername) for getting Real world application about pentesting and how we can secure out systems...
 
