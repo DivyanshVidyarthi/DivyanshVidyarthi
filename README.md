@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Hi.gif" width="300">
-</p>
+<img src="Hi.gif" width="300">
 
 #### I am a student in the field of cybersecurity doing my engineering degree from SRM Institute of Science and Technology... Currently in 3rd year!
 #### Certified in ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white).
