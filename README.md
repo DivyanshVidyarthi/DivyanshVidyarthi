@@ -1,10 +1,8 @@
-<p><img src="Hi.gif" width="300"></p>
-
 #### I am a student in the field of cybersecurity doing my engineering degree from SRM Institute of Science and Technology!!!
 #### Certified in:
 1. CompTIA Security+
 2. Google Cybersecurity Certificate
-3. Mocrosoft Cybersecurity Analyst Certificate
+3. Microsoft Cybersecurity Analyst Certificate
 
 ### Current projects I am working on:
 1. Encryption/Decryption Tools
